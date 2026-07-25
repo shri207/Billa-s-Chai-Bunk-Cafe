@@ -1,0 +1,6 @@
+{
+  "name": "Billa's Chai Bunk Cafe",
+  "description": "A bold, energetic, street-inspired website for Billa's Chai Bunk Cafe featuring floating food boards, interactive chai pouring counter, cafe bill reviews, and urban night market vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
